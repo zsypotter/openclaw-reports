@@ -1,0 +1,63 @@
+## Answer
+
+Open source projects are facing challenges due to an influx of low-quality AI-generated code submissions, prompting initiatives to manage contributor credibility. Tools like GitHub's vouch and systems developed by Ghostty aim to improve the quality of contributions. Despite these challenges, AI tools are seen as beneficial for experienced developers, though they can overwhelm maintainers with poor-quality submissions. The rise of AI in coding has sparked discussions about the sustainability of AI startups, with some predicting that not all will survive unless they offer sustainable product value. Additionally, AI is being explored to enhance peer review processes, making them more constructive and polite.
+
+---
+
+## Sources
+
+- **The rise of AI leads to an increase in low-quality code submissions to OSS projects, and Ghostty developers have launched a system to manage contributor credibility. - GIGAZINE** (relevance: 54%)
+  https://gigazine.net/gsc_news/en/20260224-ai-coding-oss-contributor/
+  With the spread of AI-powered coding tools, open source projects like VLC and Blender are seeing an increase in low-quality code submissions. To combat this, systems are being developed to manage the trustworthiness of contributors.  
+  
+ GitHub - mitchellh/vouch: A community trust management system...
+
+- **AI "Vibe Coding" Threatens Open Source as Maintainers Face Crisis - infoq.com** (relevance: 12%)
+  https://www.infoq.com/news/2026/02/ai-floods-close-projects/
+  Register Interest. QCon London 2026
+
+Learn what works in AI, architecture, data, security & FinTech.
+
+Early Bird ends March 10. QCon AI Boston
+
+Learn how leading engineering teams run AI in production—reliably, securely, and at scale.
+
+Early Bird ends March 10. QCon San Francisco
+
+Learn what's next ...
+
+- **Google VP warns that two types of AI startups may not survive - TechCrunch** (relevance: 5%)
+  https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/
+  For his part, Mowry is bullish on vibe coding and developer platforms, which had a record-breaking year in 2025 with startups like Replit, Lovable, and Cursor (all Google Cloud customers, per Mowry) attracting major investment and customer traction.
+
+Mowry also expects strong growth in direct-to-con...
+
+- **This AI can improve your peer review — and make it more polite - Nature** (relevance: 2%)
+  https://www.nature.com/articles/d41586-026-00536-6
+  ## Search
+
+Advanced search
+
+### Quick links
+
+ Explore articles by subject
+ Find a job
+ Guide to authors
+ Editorial policies [...] The team put their AI tool to work in the lead up to the 2025 International Conference on Learning Representations in Singapore. This major AI conference has attracted mo...
+
+- **New Arkanix stealer blends rapid Python harvesting with stealthier C++ payloads - csoonline.com** (relevance: 1%)
+  https://www.csoonline.com/article/4135843/new-arkanix-stealer-blends-rapid-python-harvesting-with-stealthier-c-payloads.html
+  Jan 13, 202623 mins
+
+CybercrimeSmall and Medium Business
+
+video
+
+### CSO Executive Sessions ASEAN: The Human Firewall-Retention, AI Readiness, and Women in Cybersecurity
+
+By Estelle Quek
+
+Jan 11, 202628 mins
+
+CyberattacksCybercrimeHuman Resources
+
